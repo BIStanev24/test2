@@ -3,8 +3,7 @@
 <body>
 
   <h1>Titanic - Task Management System</h1>
-  <p>C++ task management application with a graphical user interface (Dear ImGui).<br>
-  Developed as a programming project — 9th Grade.</p>
+  <p>C++ task management application with a graphical user interface (Dear ImGui).</p>
 
   <hr>
 
