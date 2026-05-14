@@ -3,8 +3,7 @@
 <body>
 
   <h1>Titanic - Task Management System</h1>
-  <p>C++ task management application with a graphical user interface (Dear ImGui).<br>
-  Developed as a programming project — 9th Grade.</p>
+  <p>C++ task management application with a graphical user interface (Dear ImGui).</p>
 
   <hr>
 
@@ -88,7 +87,7 @@ Titanic/
       </tr>
       <tr>
         <td><strong>Bubble Sort (Deadline)</strong></td>
-        <td>Sorts tasks by YYYY-MM-DD date</td>
+        <td>Sorts tasks by YYYY-DD-MM date</td>
         <td><code>logic.cpp</code></td>
       </tr>
       <tr>
@@ -132,9 +131,9 @@ Titanic/
     </thead>
     <tbody>
       <tr>
-        <td><strong>Loris Zadikyan</strong></td>
+        <td><strong>Dara Sokrateva</strong></td>
         <td><strong>Scrum Master</strong></td>
-        <td>9G</td>
+        <td>9A</td>
       </tr>
       <tr>
         <td><strong>Bozhidar Stanev</strong></td>
@@ -142,13 +141,13 @@ Titanic/
         <td>9B</td>
       </tr>
       <tr>
-        <td><strong>Presiyan Tenev</strong></td>
+        <td><strong>Rosica Velkova </strong></td>
         <td><strong>Back-end Developer 1</strong></td>
         <td>9G</td>
       </tr>
       <tr>
-        <td><strong>Yanko Yanakiev</strong></td>
-        <td><strong>Back-end Developer 2</strong></td>
+        <td><strong>Nikoleta Georgieva </strong></td>
+        <td><strong>Quality Inspector</strong></td>
         <td>9V</td>
       </tr>
     </tbody>
