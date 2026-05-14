@@ -51,22 +51,26 @@ C++ приложение за управление на задачи с граф
 
 ```
 Titanic/
-├── src/
+├── assets/             # Ресурси
+│   └── fonts/          # Шрифтове (FontAwesome, JetBrainsMono, Syne)
+├── deps/               # Зависимости
+│   ├── glfw/           # GLFW библиотеки и хедъри (lib-vc2022)
+│   └── imgui/          # Dear ImGui изходен код и бекенд
+├── include/            # Хедър файлове
+│   ├── data.h          # Структури и декларации за данните
+│   ├── logic.h         # Декларации на бизнес логиката
+│   └── ui.h            # Декларации на UI функциите
+├── src/                # Изходен код
 │   ├── main.cpp        # Точка на влизане — GLFW + ImGui loop
 │   ├── data.cpp        # Data layer имплементация
 │   ├── logic.cpp       # Logic layer имплементация
 │   └── ui.cpp          # Presentation layer имплементация
-├── include/
-│   ├── data.h          # Структури и декларации за данните
-│   ├── logic.h         # Декларации на бизнес логиката
-│   └── ui.h            # Декларации на UI функциите
-├── deps/
-│   └── imgui/          # Dear ImGui (клонирай тук)
+├── out/                # Артефакти от компилацията
+│   └── build/          # Build директория
 ├── docs/               # Допълнителна документация
-├── assets/             # Ресурси (изображения, икони)
 ├── tests/              # Unit тестове
-├── CMakeLists.txt      # Build файл
-└── README.md
+├── CMakeLists.txt      # Конфигурация за CMake
+└── CppProperties.json  # Конфигурация за IntelliSense (MSVC)
 ```
 
 ---
