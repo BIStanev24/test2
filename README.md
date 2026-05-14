@@ -96,12 +96,12 @@ Titanic/
         <td><code>logic.cpp</code></td>
       </tr>
       <tr>
-        <td><strong>Recursion — Sum</strong></td>
+        <td><strong>Recursion - Sum</strong></td>
         <td>Calculates total duration of all tasks</td>
         <td><code>logic.cpp</code></td>
       </tr>
       <tr>
-        <td><strong>Recursion — Counter</strong></td>
+        <td><strong>Recursion - Counter</strong></td>
         <td>Counts tasks with HIGH priority</td>
         <td><code>logic.cpp</code></td>
       </tr>
@@ -112,10 +112,12 @@ Titanic/
 
   <h2 id="tools-and-languages">🛠️ Tools and Languages</h2>
   <p>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="Visual Studio"/></a>
-    <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="48" width="48"/></a>
-    <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
-    <a href="https://cmake.org/"><img src="https://img.icons8.com/color/48/000000/cmake.png" alt="CMake"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="Visual Studio"/></a>
+<a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=48px /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=48px /></a>
+<a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height=48px width=48px/></a>
+<a href="https://teams.microsoft.com/"><img src="https://img.icons8.com/?size=100&id=zQ92KI7XjZgR&format=png&color=000000" alt="Teams" width="48px"></a>
+<a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
   </p>
 
   <hr>
