@@ -144,13 +144,13 @@ Titanic/
       </tr>
       <tr>
         <td><strong>Rosica Velkova </strong></td>
-        <td><strong>Back-end Developer 1</strong></td>
-        <td>9G</td>
+        <td><strong>Back-end Developer</strong></td>
+        <td>9A</td>
       </tr>
       <tr>
         <td><strong>Nikoleta Georgieva </strong></td>
         <td><strong>Quality Inspector</strong></td>
-        <td>9V</td>
+        <td>9A</td>
       </tr>
     </tbody>
   </table>
