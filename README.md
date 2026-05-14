@@ -3,7 +3,8 @@
 <body>
 
   <h1>Titanic - Task Management System</h1>
-  <p>C++ task management application with a graphical user interface (Dear ImGui).</p>
+  <p>C++ task management application with a graphical user interface (Dear ImGui).<br>
+  Developed as a programming project — 9th Grade.</p>
 
   <hr>
 
@@ -61,19 +62,19 @@ Titanic/
   <hr>
 
   <h2 id="features">🚀 Features</h2>
-  <div align="center">
-    <p>• Interactive task tracking interface<br>
-    • Recursive logic for statistics: <code>totalDurationRecursive()</code> and <code>countHighPriorityRecursive()</code><br>
-    • Persistent storage using pipe-separated <code>tasks.dat</code><br>
-    • Dynamic UI with custom font integration (FontAwesome & JetBrainsMono)</p>
-  </div>
+  <ul>
+    <li>Interactive task tracking interface</li>
+    <li>Recursive logic for statistics: <code>totalDurationRecursive()</code> and <code>countHighPriorityRecursive()</code></li>
+    <li>Persistent storage using pipe-separated <code>tasks.dat</code></li>
+    <li>Dynamic UI with custom font integration (FontAwesome & JetBrainsMono)</li>
+  </ul>
 
   <hr>
 
   <h2 id="implemented-algorithms">⚙️ Implemented Algorithms</h2>
   <table width="100%">
     <thead>
-      <tr>
+      <tr align="left">
         <th>Algorithm</th>
         <th>Description</th>
         <th>File</th>
@@ -111,7 +112,7 @@ Titanic/
   <hr>
 
   <h2 id="tools-and-languages">🛠️ Tools and Languages</h2>
-  <p align="center">
+  <p>
     <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="Visual Studio"/></a>
     <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="48" width="48"/></a>
     <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
@@ -121,39 +122,37 @@ Titanic/
   <hr>
 
   <h2 id="team">👤 Team</h2>
-  <div align="center">
-    <table border="1">
-      <thead>
-        <tr align="center">
-          <th>Name</th>
-          <th>Role</th>
-          <th>Class</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr align="center">
-          <td><strong>Loris Zadikyan</strong></td>
-          <td><strong>Scrum Master</strong></td>
-          <td>9G</td>
-        </tr>
-        <tr align="center">
-          <td><strong>Bozhidar Stanev</strong></td>
-          <td><strong>Front-end Developer</strong></td>
-          <td>9B</td>
-        </tr>
-        <tr align="center">
-          <td><strong>Presiyan Tenev</strong></td>
-          <td><strong>Back-end Developer 1</strong></td>
-          <td>9G</td>
-        </tr>
-        <tr align="center">
-          <td><strong>Yanko Yanakiev</strong></td>
-          <td><strong>Back-end Developer 2</strong></td>
-          <td>9V</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+  <table border="1" cellpadding="5">
+    <thead>
+      <tr align="left">
+        <th>Name</th>
+        <th>Role</th>
+        <th>Class</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Loris Zadikyan</strong></td>
+        <td><strong>Scrum Master</strong></td>
+        <td>9G</td>
+      </tr>
+      <tr>
+        <td><strong>Bozhidar Stanev</strong></td>
+        <td><strong>Front-end Developer</strong></td>
+        <td>9B</td>
+      </tr>
+      <tr>
+        <td><strong>Presiyan Tenev</strong></td>
+        <td><strong>Back-end Developer 1</strong></td>
+        <td>9G</td>
+      </tr>
+      <tr>
+        <td><strong>Yanko Yanakiev</strong></td>
+        <td><strong>Back-end Developer 2</strong></td>
+        <td>9V</td>
+      </tr>
+    </tbody>
+  </table>
 
 </body>
 </html>
