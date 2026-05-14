@@ -2,7 +2,8 @@
 <html>
 <body>
 
-  <h1>Titanic - Task Management System</h1>
+  <h1>Titanic</h1>
+  <img alt="e-schooler Logo" src="https://www.mnogoznayko.com/wp-content/uploads/2024/10/graduation.png" width="230px">
   <p>C++ task management application with a graphical user interface (Dear ImGui).</p>
 
   <hr>
