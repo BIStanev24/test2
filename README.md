@@ -3,7 +3,7 @@
 <body>
 
   <h1>Titanic</h1>
-  <img alt="e-schooler Logo" src="https://images.vexels.com/media/users/3/242188/isolated/preview/f6ffde3cd3bf14101ec35a2f99ec3847-simple-sailboat-cut-out-element.png" width="250px">
+  <img alt="e-schooler Logo" src="titanic.png" width="250px">
   <p>C++ task management application with a graphical user interface (Dear ImGui).</p>
 
   <hr>
